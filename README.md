@@ -1,1 +1,1 @@
-# Photo-collors-extraction
+Image Colour Palette Generator
